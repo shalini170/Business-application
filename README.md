@@ -31,7 +31,7 @@ In Salesforce we can create, manage and customise both applications according to
 ## Step 5:
 After Next, define the fields for the custom app. • App Label: Search Service. • App Name: Search Service. • Description: Search Service is one app where we manage all the business data and catalogues.
 
-![image](https://github.com/user-attachments/assets/24b9eef6-0ecc-439f-957a-1cf2f623f980
+![image](https://github.com/user-attachments/assets/24b9eef6-0ecc-439f-957a-1cf2f623f980)
 
 ## Step 6: Choose the Image Source for the Custom App Logo.
 
